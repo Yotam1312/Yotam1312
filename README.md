@@ -62,11 +62,15 @@
 
 ###
 
-<p align="left"></p>
+<h2 align="left">🧠 Core Concepts</h2>
 
 ###
 
-<p align="left">🧠 Core Concepts<br><br>RESTful API Design<br><br>Object-Oriented Programming (OOP)<br><br>Version Control (Git & GitHub)<br><br>Docker</p>
+<h6 align="left">RESTful API Design<br><br>Object-Oriented Programming (OOP)<br><br>Version Control (Git & GitHub)<br><br>Docker</h6>
+
+###
+
+<p align="left"></p>
 
 ###
 
@@ -81,14 +85,27 @@
 
 ###
 
-<p align="left">www.linkedin.com/in/yotam-shpilman</p>
+<h5 align="left">www.linkedin.com/in/yotam-shpilman</h5>
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yotam1312/yotam1312/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yotam1312/yotam1312/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/yotam1312/yotam1312/output/pacman-contribution-graph.svg">
-</picture>
+<div align="left">
+</div>
+
+###
+
+<div align="left">
+</div>
+
+###
+
+<div align="left">
+</div>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&theme=gruvbox"  />
+</div>
 
 ###
